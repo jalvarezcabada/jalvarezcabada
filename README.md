@@ -18,6 +18,6 @@ I primarily work on building data pipelines and ETLs, extracting data from vario
 - **Data Pipeline/ETL Creation**: Designing and implementing efficient data pipelines to move and transform data across various systems.
 - **Data Lake Architecture**: Implementing data lake solutions using the **Medallion architecture** (Bronze, Silver, Gold layers).
 - **Complex Process Orchestration**: Managing the orchestration of complex workflows using tools like **Airflow** to ensure smooth and efficient execution of multi-step data processes.
+- **Optimization & Performance**: Continuously improving the performance and optimization of data processes within the data lake, ensuring faster and more efficient data retrieval and processing.
 - **Data Quality**: Ensuring high standards of data quality through validation and monitoring processes.
 - **CI/CD for Pipelines**: Setting up and deploying data pipelines using automated **CI/CD** workflows.
-

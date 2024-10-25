@@ -7,7 +7,7 @@ I enjoy researching innovative solutions and incorporating them into my projects
 ## 🛠️ Technologies & Tools
 - **Languages**: Python, SQL
 - **Big Data**: PySpark, Spark, Databricks
-- **Cloud**: AWS (Amazon Web Services)
+- **Cloud**: AWS, GCP
 - **Containerization**: Docker
 - **Orchestration**: Airflow
 
